@@ -17,7 +17,7 @@ Never-Ending Story is designed to explore programmatic storytelling techniques, 
 
 1. Clone the repository:
 
-	git clone https://example.com/yourusername/never-ending-story.git
+	git clone https://github.com/Micaran/Never-ending-story.git
 
 2. Change into the project directory:
 
